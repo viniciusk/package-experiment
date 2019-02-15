@@ -1,0 +1,12 @@
+{
+    "name": "viniciusk/package-experiment",
+    "description": "Simple package",
+    "license": "CCT",
+    "authors": [
+        {
+            "name": "Vinícius Kienen",
+            "email": "viniciusk@gmail.com"
+        }
+    ],
+    "require": {}
+}
